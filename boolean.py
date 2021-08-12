@@ -1,0 +1,7 @@
+print(1>2)
+print(1<2)
+print(True)
+print(False)
+print(not True)
+print(not False)
+print(not (1>2))
